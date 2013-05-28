@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Problem #4 - Exam For Nyl Brian Ong</title>
+	<title>Problem #4 - Code Ninja Test</title>
 	<link href="<?php echo base_url( 'public/css/default.css' ); ?>" rel="stylesheet" type="text/css" />
 </head>
 
